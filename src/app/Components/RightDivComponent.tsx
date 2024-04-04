@@ -35,7 +35,7 @@ const RightDivComponent = (props: {
               props.handleResetBtn();
             }
           }}
-          className={`mt-[40px] lg:mt-[120px] w-full h-[48px] text-[#00494d] ${props.Button} rounded-[5px] SpaceMonoBold text-[24px]`}
+          className={`mt-[28px] lg:mt-[120px] w-full h-[48px] text-[#00494d] ${props.Button} rounded-[5px] SpaceMonoBold text-[24px]`}
         >
           RESET
         </button>
