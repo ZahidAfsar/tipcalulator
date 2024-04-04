@@ -1,3 +1,11 @@
+
+
+
+
+# Peer Reviewer: Mark Ortega
+# Peer Review: I would make the margins on the top and bottom a bit larger due to there being more background on the design file. Also i would limit the amount of numbers you can input in the bill input field/or make your tip result container contain the results because when i input a large number on the bill input the results start to leak out of the container. Otherwise the website is well made and i cant seem to break the logic.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
