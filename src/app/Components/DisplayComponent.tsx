@@ -76,7 +76,7 @@ useEffect(() => {
   
 
   return (
-    <div>
+    <div className="mb-4" >
       <div className="min-h-screen grid align-center">
         <div className="mt-[50px] lg:mt-auto mb-[41px] lg:mb-[88px] mx-auto">
           <Image src={splitterLogo} alt="splitter splitterLogo" />

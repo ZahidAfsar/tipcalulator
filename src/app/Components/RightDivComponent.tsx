@@ -16,7 +16,7 @@ const RightDivComponent = (props: {
             <p className="text-white spaceMonoRegular">Tip Amount</p>
             <p className="text-[#7f9c9f] spaceMonoRegular">/ person</p>
           </div>
-          <div className="SpaceMonoBold text-end text-[#26c0ab] my-auto text-[32px] lg:text-[40px]">
+          <div className="SpaceMonoBold text-end w-56 text-[#26c0ab] my-auto text-[32px] lg:text-[40px] overflow-x-auto">
             {`$${props.amountTipped}`}
           </div>
         </div>
@@ -25,7 +25,7 @@ const RightDivComponent = (props: {
             <p className="text-white spaceMonoRegular">Total</p>
             <p className="text-[#7f9c9f] spaceMonoRegular">/ person</p>
           </div>
-          <div className="SpaceMonoBold text-end text-[#26c0ab] my-auto text-[32px] lg:text-[40px]">
+          <div className="SpaceMonoBold text-end w-56 text-[#26c0ab] my-auto text-[32px] lg:text-[40px] overflow-x-auto">
             {`$${props.amountTotal}`}
           </div>
         </div>
